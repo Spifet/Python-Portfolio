@@ -1,0 +1,12 @@
+title,description,url,image
+Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://github.com/Spifet/Python-Portfolio,22.png
+Todos,A minimalistic Python todos app to create and complete tasks.,https://github.com/Spifet/todos,1.png
+Commercial Website Template,A commercial website template app with enhanced functionalities.,https://github.com/Spifet/commercial-website-template,21.png
+Invoice Generator,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://github.com/Spifet/invoice-generator,4.png
+News API,A website that gets data from a news API and sends a newsletter via email.,https://github.com/Spifet/news-api-email,5.png
+PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines (notebooks).,https://github.com/Spifet/pdf-template,3.png
+NASA Astro API,A Python NASA's Picture of the Day presentation app.,https://github.com/Spifet/NASA-Astro-API,23.png
+Historical Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/Spifet/historical-weather-api,6.png
+English Dictionary API,A Python English dictionary API app.,https://github.com/Spifet/English-dictionary-API,24.png
+Text-to-PDF converter,A Python text-to-PDF converter app to create a single PDF file out of many text files.,https://github.com/Spifet/text-to-pdf-converter,25.png
+
