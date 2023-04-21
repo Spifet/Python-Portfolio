@@ -10,8 +10,8 @@ with col1:
 with col2:
     st.title("Jei Cohen")
     content = """
-    Hi, I am Jei! I am a Full Stack developer. I graduated in 2022 with a diploma of Full Stack Developer from 
-    ITC Academy and an enthusiastic Bsc. Computer Science distant student from UoPeople University in the 
+    Hi, I am Jei! I am a Full Stack developer. I graduated in 2022 with the diploma of Full Stack Developer from 
+    ITC Academy and I'm an enthusiastic Bsc. Computer Science distant student from UoPeople University in 
     California, USA with a focus on backend languages and technologies. I have worked as a PS Engineer - Tier 3 Support 
     for an international LIMS company assisting large-scale business clients get bugs that affected dozens of thousands 
     of people tracked down in very limited time constraints. 
